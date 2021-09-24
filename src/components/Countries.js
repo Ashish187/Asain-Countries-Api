@@ -27,7 +27,6 @@ const Countries = () => {
                     <h3>Capital: {capital}</h3>
                     <h3>Region: {region}</h3>
                     <h3>Subregion: {subregion}</h3>
-                    <h3>Population: {population}</h3>
                     <h3>Languages:
                        {entries.map((entry)=>{
                            return <div>
