@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background: rgb(144, 144, 228);
+  background: rgb(116, 116, 117);
   color: black;
   padding: 30px;
 }
@@ -16,6 +16,8 @@ img{
 
 .grid .info h3{
   padding: 6px;
+  font-size: 20px;
+  font-weight: bolder;
 }
 
 .grid{
